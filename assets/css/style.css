@@ -1,0 +1,56 @@
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Apply styles to the header and navigation */
+  header {
+    background-color: #f0f0f0;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  nav ul li {
+    display: inline;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  /* Apply styles to the main sections */
+  main {
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .application {
+    margin-bottom: 20px;
+  }
+  
+  .application img {
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  /* Apply styles to the contact section */
+  #contact {
+    margin-bottom: 50px;
+  }
