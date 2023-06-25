@@ -1,9 +1,8 @@
 ## Description
-This project is a mock project designed to impress clients, practicing improving a codebase for long-term sustainability. Making sure that all links are functioning correctly. Reworking the CSS to make it more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+The purpose of this project is to build a portfolio page, which I can add to as the course progresses.
 
 Screenshots
-<img width="1439" alt="Screen Shot 2023-06-15 at 9 54 25 PM" src="https://github.com/JeremyBlau/Week-one-assignment/assets/134236414/7e0f5c8d-5405-4a7b-acc4-18d8706e95dd">
-<img width="1438" alt="Screen Shot 2023-06-15 at 9 54 38 PM" src="https://github.com/JeremyBlau/Week-one-assignment/assets/134236414/92cc8c1a-bd6d-48ad-bbf1-b26cd0a0ca11">
+![Screen Shot 2023-06-25 at 2 47 48 PM](https://github.com/JeremyBlau/Module-two-assignment/assets/134236414/70f264af-cc42-4e85-8ca5-4976d948fe9a)
 
 
 ## Deployment
@@ -12,8 +11,8 @@ The application is deployed and can be accessed through the following link: Depl
 ## Installation
 To install and run this project locally, follow these steps:
 
-Clone the repository: git clone https://github.com/JeremyBlau/Week-one-assignment.git
-Navigate to the project directory: Week-one-assignment
+Clone the repository: git clone https://github.com/JeremyBlau/Module-two-assignment.git
+Navigate to the project directory: Module-two-assignment
 Start the application
 
 ## Contributing
@@ -26,4 +25,4 @@ This project is licensed under the MIT LICENSE.
 NA
 
 ## Contact
-If you have any questions, suggestions, or just want to say hi, you can reach me at jwblau2@gmail.com.
+If you have any questions, or suggestions, or just want to say hi, you can reach me at jwblau2@gmail.com.
