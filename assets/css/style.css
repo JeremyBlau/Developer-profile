@@ -37,7 +37,13 @@
     font-size: 24px;
     margin-bottom: 10px;
   }
-  
+
+  h2 {
+    font-size: 24px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
   img {
     max-width: 100%;
     height: auto;
@@ -50,8 +56,11 @@
   .application img {
     width: 100%;
     max-width: 400px;
+    transition: opacity 0.3s ease;
   }
-  
+  .application:hover img {
+    opacity: 0.7
+  }
   /* Apply styles to the contact section */
   #contact {
     margin-bottom: 50px;
