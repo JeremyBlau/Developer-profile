@@ -2,7 +2,7 @@
 The purpose of this project is to build a portfolio page, which I can add to as the course progresses.
 
 Screenshots
-![Screen Shot 2023-06-25 at 2 47 48 PM](https://github.com/JeremyBlau/Module-two-assignment/assets/134236414/70f264af-cc42-4e85-8ca5-4976d948fe9a)
+![Screen Shot 2023-06-28 at 2 44 33 PM](https://github.com/JeremyBlau/Module-two-assignment/assets/134236414/85b34816-7f83-4b47-9ff3-93c3716ff50f)
 
 
 ## Deployment
